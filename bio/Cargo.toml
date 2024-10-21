@@ -1,0 +1,9 @@
+[package]
+name = "bio"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ascii_table = "4.0.4"
+base64 = "0.22.1"
+serde_json = "1.0.132"
